@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+e:\практик\тест (6)\unittest1\unittest1.cpp(18): error C2665: Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual: ни одна из 8 перегрузок не может преобразовать все типы аргументов
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\auxiliary\vs\unittest\include\cppunittestassert.h(184): note: может быть "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const wchar_t *,const wchar_t *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\auxiliary\vs\unittest\include\cppunittestassert.h(165): note: или       "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const char *,const char *,bool,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+  e:\практик\тест (6)\unittest1\unittest1.cpp(18): note: при попытке сопоставить список аргументов "(int, double)"
